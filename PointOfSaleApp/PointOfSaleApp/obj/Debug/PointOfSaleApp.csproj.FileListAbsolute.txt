@@ -1,0 +1,10 @@
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\bin\Debug\PointOfSaleApp.exe.config
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\bin\Debug\PointOfSaleApp.exe
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\bin\Debug\PointOfSaleApp.pdb
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.AssemblyReference.cache
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.Form1.resources
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.Properties.Resources.resources
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.GenerateResource.cache
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.CoreCompileInputs.cache
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.exe
+H:\Projects\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\PointOfSaleApp\obj\Debug\PointOfSaleApp.pdb
